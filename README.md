@@ -59,15 +59,14 @@ Based on analyis of Automotive product reviews with 20+ total votes:
 
 ---
 
-Non-Vine (Unpaid) Reviews
-
-<p align="left">
-  <img src="Resources/non_vine_analysis.PNG"/>
-</p>
+#### Non-Vine (Unpaid) Reviews
 
 - **99.69%** of product reviews are not from the Vine program for a total of **26,930** reviews.
 - **99.75%** of non-Vine reviews have a 5-star rating for a total of **13,033** reviews.
 
+<p align="left">
+  <img src="Resources/non_vine_analysis.PNG"/>
+</p>
 
 ## Summary
 - Based on the result there is evident positivity for bias in the vine Vine reviews as only 0.25% of vine reviews have a 5-star rating.
