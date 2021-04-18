@@ -69,4 +69,4 @@ Based on analyis of Automotive product reviews with 20+ total votes:
 </p>
 
 ## Summary
-- Based on the result there is evident positivity for bias in the vine Vine reviews as only 0.25% of vine reviews have a 5-star rating.
+- Based on the results, the Vine program has only contributed **0.31%** to the total reviews, and only **0.25%** to reviews with a 5-star rating. Therefore, we can conclude that there is no evident positivity for bias in the Vine reviews for Automotive products.
