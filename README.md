@@ -40,18 +40,21 @@ Based on analyis of Automotive product reviews with 20+ total votes:
 <p align="left">
   <img src="Resources/review_analysis.PNG"/>
 </p>
+
 - There is total of **27,014** Automotive product reviews.
 - **48.37%** of product reviews are 5 star for a total of **13,066** reviews
 
 <p align="left">
   <img src="Resources/vine_analysis.PNG"/>
 </p>
+
 - **0.31%** of product reviews are from the Vine program for a total of **84**reviews.
 - **0.25%** of Vine Reviews have a 5-star rating for a total of **33** reviews.
 
 <p align="left">
   <img src="Resources/non_vine_analysis.PNG"/>
 </p>
+
 - **99.69%** of product reviews are not from the Vine program for a total of **26,930** reviews.
 - **99.75%** of non-Vine reviews have a 5-star rating for a total of **13,033** reviews.
 
