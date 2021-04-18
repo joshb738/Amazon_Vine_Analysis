@@ -33,7 +33,6 @@ Analyzing Amazon reviews written by members of the paid Amazon Vine program - a 
   <img src="Resources/PGA_vine_table.PNG"/>
 </p>
 
-<br />
 ---
 
 ### Vine Review Analysis
@@ -49,6 +48,8 @@ Based on analyis of Automotive product reviews with 20+ total votes:
 
 ---
 
+#### Vine (Paid) Reviews
+
 - **0.31%** of product reviews are from the Vine program for a total of **84**reviews.
 - **0.25%** of Vine Reviews have a 5-star rating for a total of **33** reviews.
 
@@ -57,6 +58,8 @@ Based on analyis of Automotive product reviews with 20+ total votes:
 </p>
 
 ---
+
+Non-Vine (Unpaid) Reviews
 
 <p align="left">
   <img src="Resources/non_vine_analysis.PNG"/>
