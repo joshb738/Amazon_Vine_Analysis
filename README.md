@@ -6,7 +6,7 @@ Analyzing Amazon reviews written by members of the paid Amazon Vine program - a 
 
 ## Resources
 
-- Data Source: [Automotive Reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Automotive_v1_00.tsv.gz)
+- Data Source: [Amazon Automotive Product Reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Automotive_v1_00.tsv.gz)
 - Software/Applications: Amazon Web Services, pgAdmin 4.28,  Google Colab 
 
 ## Results
