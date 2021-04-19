@@ -70,3 +70,7 @@ Based on analyis of Automotive product reviews with 20+ total votes:
 
 ## Summary
 - Based on the results, the Vine program has only contributed **0.31%** to the total reviews, and only **0.25%** to reviews with a 5-star rating. Therefore, we can conclude that there is no evident positivity for bias in the Vine reviews for Automotive products.
+
+#### Additional analysis to support review validity:
+- Analysis of the verified purchases for the products with 5-Star ratings 
+- Analysis of the verified purchases in comparison to reviews left by vine members vs non vine members
